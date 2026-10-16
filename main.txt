@@ -1,3 +1,5 @@
 ||hapara.com^
 ||*.hapara.com^
 ||*.hapara.com^$document
+
+||*.example.com^
