@@ -1,2 +1,3 @@
 ||hapara.com^
-||hapara.com^$document
+||*.hapara.com^
+||*.hapara.com^$document
